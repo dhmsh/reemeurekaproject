@@ -1,0 +1,395 @@
+body{
+  background-color: white;
+   margin: 0px;
+}
+
+.Navbar{
+   margin-top: 20px;
+      display: flex;
+      justify-content: flex-start;
+     margin-bottom: 50px;
+      color: rgb(242, 245, 247);
+      text-align: center;
+      font-size: 20px;
+      height: 90px;
+      list-style-type: none;
+      background-image: linear-gradient(to right, teal , purple);
+     font-weight: 700;
+      padding: 0px;
+      overflow: hidden;
+   justify-content: center;
+   border-radius: 20px;
+   top: 0;
+   width: 100%;
+  }
+ 
+  .home{
+    margin-top: 5px;
+  }
+  .box3{
+    margin-top: 5px;
+  }
+      .box3:hover{
+        background-color: rgb(98, 103, 107);}
+    .home:hover{
+        background-color: rgb(98, 103, 107);}
+       
+          
+       
+            
+          
+          
+          .ali {
+            display: block;
+            color: white;
+            text-align: center;
+           padding: 10px;
+            text-decoration: none;
+            font-family: 'Cairo';
+        
+          }
+          .bookcoffee {
+            display: flex;
+            justify-content: space-between;
+            position: relative;
+            text-align: right;
+            color: white;
+            white-space: pre-wrap;
+            margin-top: 0px;
+            
+          
+          
+          }
+          .top-right {
+            position: absolute;
+            top: 1px;
+            left: 650px;
+            font-size: 25px;
+            font-family:'Cairo';
+            color: rgb(3, 70, 70);
+            font-weight: bolder;
+          }
+              .about{
+                display:flex;
+                justify-content: center;
+              
+      background-image: linear-gradient(to right, rgb(236, 236, 236) , rgb(226, 222, 226));
+                flex-direction: column;
+                width: 700px;
+                height: 400px;
+                margin-top: 0px;
+                margin-right: 5px;
+                border-radius: 50px 5px 5px 30px;
+             
+              }      
+        .blue{
+          display:flex;
+          justify-content: center;
+          font-family: "Cairo";
+          color:  teal;
+          margin: 10px;
+          font-weight: bold;
+        }
+        .abouttext{
+          display:flex;
+          justify-content: center;
+          font-size: 20px;
+          font-family: "Cairo";
+          color: rgb(41, 40, 40);
+          font-weight: 700;
+          white-space: pre-wrap;
+          margin-right:20px ;
+        }
+
+      
+        
+        li a.active {
+          background-color: #04AA6D;
+          color: white;
+        }
+        
+        li a:hover:not(.active) {
+          background-color: #555;
+          color: white;
+        }
+       
+.footer{
+  height: 200px;
+  display: flex;
+  background-color: rgb(231, 230, 230);
+  border-top: 1px solid rgb(168, 168, 168);
+  margin-top:50px ;
+  font-size:17px ;
+font-weight: bold;
+  font-family: "Cairo";
+  justify-content: space-between;
+
+  
+}
+        .footer2{
+          flex-direction: column;
+          display: flex;
+         
+          justify-content: flex-start;
+          align-items: flex-end;
+        
+         
+         
+          font-size:15px ;
+          font-family: "Cairo";
+        }
+        .copyright{
+          margin:5px;
+        }
+        .footer3{
+          margin-top: 5px;
+        }
+       
+
+
+
+.image{
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+        ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: #333;
+        }
+        
+        li {
+          float: left;
+        }
+        
+        li a, .dropbtn {
+          display: inline-block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+        }
+        
+        li a:hover, .dropdown:hover .dropbtn {
+          background-color: #555;
+          color: white;
+        }
+        
+        li.dropdown {
+          display: inline-block;
+        }
+        
+        .dropdown-content {
+          display: none;
+          position: absolute;
+          background-color: #f9f9f9;
+          min-width: 160px;
+          box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+          z-index: 1;
+        text-align: right;
+        }
+        
+        .dropdown-content a {
+          color: black;
+        text-align: right;
+          padding: 12px 16px;
+          text-decoration: none;
+          display: block;
+          text-align: left;
+        }
+        
+        .dropdown-content a:hover {background-color: #f1f1f1;}
+        
+        .dropdown:hover .dropdown-content {
+          display: block;
+        }
+.dropdown{
+
+
+ padding: 0px;
+ 
+  font-family: 'Cairo';
+  color: rgb(242, 245, 247);
+
+  font-size: 20px;
+}
+
+
+
+
+/*history page*/
+.abouthistory{
+ 
+
+  display: inline-block;
+}
+.abouthistoryh{
+  color: rgb(92, 22, 92);
+  font-family: "Cairo";
+  font-weight: 900;
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+.abouthistoryp{
+  font-family: "Cairo";
+  font-weight: bolder;
+  margin: 8px;
+
+  font-size: 20px;
+  width: 700px;
+display: flex;
+}
+
+
+
+.historycontent{
+  display: flex;
+  flex-direction: column;
+  width: 900px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+.historybook1 h2{
+  color: teal;
+  font-family: "Cairo";
+  font-weight: 900;
+  margin-bottom: 20px;
+  font-size: 35px;
+}
+.historybook1{
+  width: 800px;
+  margin-right: 10px;
+  margin-top: 50px;
+}
+.historybook1 p{
+  font-family: "Cairo";
+  font-weight: bolder;
+  margin: 2px;
+
+  font-size: 20px;
+  width: 700px; 
+}
+
+
+.historybook1 h1{
+  font-family: "Cairo";
+  font-weight: light;
+  margin: 20px;
+  border-bottom: 2px solid teal;
+  color: teal;
+  width: 170px;
+
+
+}
+.history{
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  border-left:1px dotted teal;
+}
+ 
+
+.page{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+.toc{
+  margin-left: 10px;
+  display: inline-block;
+  margin-top: 200px;
+  background-color: rgb(238, 234, 234);
+  width: 400px;
+  border-radius: 50px;
+  border: 1px solid rgb(172, 171, 171);
+  height: 500px;
+  text-align: right;
+  margin-right: 5px;
+  display: flex;
+  flex-direction: column;
+  position:sticky;
+  top: 100px;
+
+
+}
+.toc a{
+  margin-right: 5px;
+font-size: 20px;
+  font-family: "Cairo";
+  
+}
+.toc h1{
+  font-size: 25px;
+  color: purple;
+  margin-right: 10px;
+  font-family: "Cairo";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.side{
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+.topbtn{
+  margin-top: 40px;
+margin-right: 340px;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  margin-left: 5px;
+}
+.topbtn:hover {
+  background-color: #555;
+  cursor:pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

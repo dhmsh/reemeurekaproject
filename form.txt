@@ -1,0 +1,35 @@
+<div id="" class="historybook1" style="margin-top: 100px;">
+  <h2>&#x2022;</h2>
+  <img src="" style="width: 800px; margin: 30px; height: 700px;" >
+  <h1>وصف الكتاب</h1>
+  <p style="margin-right: 20px;">.</p>
+  <a  style="margin:20px;font-size:15px;font-family:'Cairo'; font-weight: bold;color: teal;" href="">رابط التحميل من هنا</a>
+</div>
+
+
+
+     <a href="#">&#x2022;</a> //toc
+
+
+
+
+
+ <div class="toc">
+        <h1>جدول المحتويات</h1>
+        <a href="#gustaf">&#x2022;كتاب حضارة العرب - غوستاف لو بون</a>
+        <a href="#mohmonsi">&#x2022; كتاب لحظة التاريخ - محمد المنسي قنديل</a>
+        <a href="#james">&#x2022; كتاب فجر الضمير - جيمس هنري بريستد</a>
+        <a href="#alberto">&#x2022;تاريخ القراءة - البرتو مانغويل</a>
+        <a href="#abnkhaldon">&#x2022;مقدمة ابن خلدون</a>
+        <a href="#civilization">&#x2022;قصة الحضارة</a>
+        <a href="#worldhistory">&#x2022;تاريخ العالم بالسنوات و الأحداث</a>
+        <a href="#startandend">&#x2022; كتاب البداية والنهاية</a>
+        <a href="#abunaem">&#x2022;كتاب حلية الأولياء و طبقات الأصفياء</a>
+        <a href="#aldahaby">&#x2022; كتاب سير أعلام النبلاء</a>
+        
+    </div>
+
+
+
+
+
